@@ -1,6 +1,6 @@
 criaCartao(
     'Pergunta 1',
-    'QUANDO O VALORANT FOI LANÇADO?',
+    'Quando o valorant foi lançado?',
     '2020.'
 )
 
