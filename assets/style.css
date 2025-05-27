@@ -4,14 +4,14 @@
 :root {
     --text-color: #ffffff;
     --card-front-color: #414141ee;
-    --card-back-color: #f40000;
+    --card-back-color: #071441;
 }
 
 body {
-    background: url('./img/pou.mp4');
-    background-repeat: no-repeat;
+    background: url('./img/4k-hd-valorant-2560-x-1440-o3ehpfhz5uuti3qd.webp');
     background-size: cover;
-    font-family: "Sour Gummy", sans-serif;
+    background-repeat: no-repeat;
+    font-family: "Playwrite PL", cursive;
 }
 
 #container {
@@ -106,9 +106,9 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('./img/fundo_mobile.jpg');
-        background-size: contain;
-        background-repeat: repeat;
+        background: url('./img/4k-hd-valorant-2560-x-1440-o3ehpfhz5uuti3qd.webp');
+        background-size: cover;
+        background-repeat: no-repeat;
         font-family: "Playwrite PL", cursive;
     }
 
